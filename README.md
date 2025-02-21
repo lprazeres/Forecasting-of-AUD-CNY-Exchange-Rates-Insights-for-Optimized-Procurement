@@ -15,7 +15,7 @@ The analysis suggests that the optimal period to purchase products from China is
 
 Technologies Used
 Pandas & NumPy – Data manipulation and preprocessing
-Statsmodels – Time series analysis (ADF test, ARIMA, SARIMA)
+Statsmodels – Time series analysis (ADF test)
 Prophet – Forecasting model
 Matplotlib & Seaborn – Data visualization
 Scikit-learn – Model evaluation metrics
